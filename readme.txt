@@ -1,4 +1,4 @@
-DayZ Chernarus Big Oil Rig By EZ Rich & Sea Platform By Expasnsion Team, Converted By Don Sibley, For Console and PC xml json Mod Instructions & Terms Of Use
+DayZ Chernarus Big Oil Rig By EZ Rich & Sea Platform By Expansion Team, Converted By Don Sibley, For Console and PC xml json Mod Instructions & Terms Of Use
 
 These files spawn a large oil rig, with loot, in the sea 1.4km South of the Light-House thats on the Coast West of Chernogorsk 
 
@@ -232,11 +232,11 @@ Next we add loot to the structures by adding the following code snippet to the t
 	
 Save your changes & upload if you need to.
 
-Restart your server and the new structures will appear immediatly, and then they will slowly stock with loot. If you do a wipe will start to appear immediatly.
+Restart your server and the new structures will appear immediatly, and then they will slowly stock with loot. If you do a wipe, loot will start to appear immediatly.
 
 At the time of uploading these files you cannot spawn infected zombies over water, so you can't add infected to these locations.
 
-Org File Created by Your EZ Rich & Expansion Team, with conversion by Don Sibley For more help files for DayZ come visit us at http://bhaalshad.com 
+Orig File Created by Your EZ Rich & Expansion Team, with conversion by Don Sibley. For more help files for DayZ come visit us at http://bhaalshad.com 
 If you upload this to another Discord or webpage, please leave filename intact and dont take credit
 as your own. Thank you and enjoy :)  
 
